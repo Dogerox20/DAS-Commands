@@ -31,10 +31,10 @@ Admin/Moderator commands:
 /unmute - Unmutes a member.
 /vkick - Voice kicks a member.
 /vmute - Vouce mutes a member.
+/vunmute - Voice unmute a member.
+/warn - Warns a member.
+/warnings - Gets the warnings of a guild member.
 
 Other commands:
 
 /host_tds_session - Host a Tower Defense Simulator event.
-/vunmute - Voice unmute a member.
-/warn - Warns a member.
-/warnings - Gets the warnings of a guild member.
