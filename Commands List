@@ -1,6 +1,6 @@
 Member commands:
 
-/help - Pulls up the commands page for DAS.
+/help - Get a list of all integrated bot commands.
 /ping - Returns the ping of the bot.
 /report - Report a member.
 /avatar - Shows a user's avatar.
