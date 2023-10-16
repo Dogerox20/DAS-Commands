@@ -1,0 +1,36 @@
+Member commands:
+
+/help - Pulls up the commands page for DAS.
+/ping - Returns the ping of the bot.
+/report - Report a member.
+/avatar - Shows a user's avatar.
+/edit-text - Edit a given text with your instructions using AI.
+/invite - Returns the invite link for the bot.
+/level - Get your current level.
+/levels - Get your server's leaderboard.
+/respond - Sends an AI-generated chat response to your prompt.
+/suggest - Creates a suggestion.
+
+Admin/Moderator commands:
+
+/addrole - Adds a role to a member
+/ban - Bans a member
+/clearwarnings - Clear ALL warnings of a member.
+/deafen - Deafens a member.
+/kick - Kicks a member.
+/move - Moves a member.
+/mute - Mutes a member.
+/purge - Purges messages in a channel.
+/remvoerole - Remove a role from a member.
+/removetimeout - Remove timeout from a member.
+/slowmode - Toggles slowmode in this channel.
+/softban - Soft bans a member.
+/timeout - Timeout a member.
+/unban - Unban a member.
+/undeafen - Undeafens a member.
+/unmute - Unmutes a member.
+/vkick - Voice kicks a member.
+/vmute - Vouce mutes a member.
+/vunmute - Voice unmute a member.
+/warn - Warns a member.
+/warnings - Gets the warnings of a guild member.
