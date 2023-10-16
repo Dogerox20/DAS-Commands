@@ -4,11 +4,9 @@ Member commands:
 /ping - Returns the ping of the bot.
 /report - Report a member.
 /avatar - Shows a user's avatar.
-/edit-text - Edit a given text with your instructions using AI.
 /invite - Returns the invite link for the bot.
 /level - Get your current level.
 /levels - Get your server's leaderboard.
-/respond - Sends an AI-generated chat response to your prompt.
 /suggest - Creates a suggestion.
 
 Admin/Moderator commands:
