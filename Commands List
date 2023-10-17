@@ -33,7 +33,9 @@ Admin/Moderator commands:
 /warn - Warns a member.
 /warnings - Gets the warnings of a guild member.
 
+
 Other commands:
 
+/reactionrole - Creates a set of reaction roles. (Has to be modified within Botghost to edit values and roles.)
 /host_tds_session - Host a Tower Defense Simulator event.
 /host_tb_session - Host a Tower Battles event. ~ Currently disabled due to mention being broken.
