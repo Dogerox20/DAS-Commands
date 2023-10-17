@@ -36,3 +36,4 @@ Admin/Moderator commands:
 Other commands:
 
 /host_tds_session - Host a Tower Defense Simulator event.
+/host_tb_session - Host a Tower Battles event. ~ Currently disabled due to mention being broken.
