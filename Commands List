@@ -41,3 +41,4 @@ Other commands:
 /host_tb_session - Host a Tower Battles event.
 /start_event_tds - Start your TDS event.
 start_event_tb - Start your Tower Battles event.
+/announce - Send a message that was premade with BotGhost. ~ Owner only
