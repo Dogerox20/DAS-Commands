@@ -38,4 +38,6 @@ Other commands:
 
 /reactionrole - Creates a set of reaction roles. (Has to be modified within Botghost to edit values and roles.)
 /host_tds_session - Host a Tower Defense Simulator event.
-/host_tb_session - Host a Tower Battles event. ~ Currently disabled due to mention being broken.
+/host_tb_session - Host a Tower Battles event.
+/start_event_tds - Start your TDS event.
+start_event_tb - Start your Tower Battles event.
