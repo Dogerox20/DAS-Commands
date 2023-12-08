@@ -40,7 +40,9 @@ Other commands:
 /host_tds_session - Host a Tower Defense Simulator event.
 /host_tb_session - Host a Tower Battles event.
 /start_event_tds - Start your TDS event.
-start_event_tb - Start your Tower Battles event.
+/start_event_tb - Start your Tower Battles event.
 /announce - Send a message that was premade with BotGhost. ~ Owner only
+/start_event_tdx - Start your TDX event.
+host_tdx_session - Host a Tower Defense X event.
 
 IF YOU DM DAS YOU CAN OPEN A MODMAIL TICKET.
